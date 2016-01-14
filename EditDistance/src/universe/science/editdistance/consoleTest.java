@@ -1,4 +1,4 @@
-package gov.nih.cit.editdistance;
+package universe.science.editdistance;
 
 public class consoleTest {
 

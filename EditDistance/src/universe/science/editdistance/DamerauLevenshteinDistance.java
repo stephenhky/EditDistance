@@ -1,4 +1,4 @@
-package gov.nih.cit.editdistance;
+package universe.science.editdistance;
 
 public class DamerauLevenshteinDistance {
     private static int Minimum(int a, int b, int c) {
